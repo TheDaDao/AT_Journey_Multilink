@@ -1,5 +1,7 @@
 # AT_Journey_Multilink
-Project
+Group Project worked on by:
+- Elhussin Farah [https://github.com/huss535]
+- "Alex" Jiacheng Wei [https://github.com/TheDaDao]
 
 # Multi-Link Trip Planner(Placeholder name)
 
